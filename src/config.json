@@ -5,7 +5,7 @@
     { "value": "USD", "label": "United States (US $)" },
     { "value": "EUR", "label": "Germany (EUR €)" },
     { "value": "HKD", "label": "Hong Kong (HKD $)" },
-    { "value"" "THB", "label": "Thailand (THB $)" }
+    { "value": "THB", "label": "Thailand (THB $)" }
   ],
   "languageList": [
     { "value": "english", "label": "English" },
